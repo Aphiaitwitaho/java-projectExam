@@ -1,14 +1,14 @@
 # JaavaProjectClassExam
 The System Is  Called Prignant Woment Information Sysytem 
 
-REG:221004576 
+REG: 221005776
 
 
 
-Name: Muhoza John
+Name: Itwitaho Aphia
 
 
-No: 45
+No: 10
 
 
 
